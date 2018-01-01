@@ -1,0 +1,8 @@
+dataset = [600, 470, 170, 430, 300]
+
+mean = sum(dataset) /  len(dataset)
+
+print mean 
+
+
+udacity pandas
